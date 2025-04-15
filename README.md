@@ -1,3 +1,6 @@
+![istockphoto-1331914878-612x612](https://github.com/user-attachments/assets/0d87dddb-9d80-4886-83a6-52abb6750314)
+
+
 ## 📘 Project Description: Book Price & Rating Analysis using Web Scraping<br>
 
 This project demonstrates a complete data workflow using web scraping on an eCommerce-like site.<br>
